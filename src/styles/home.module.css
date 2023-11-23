@@ -1,0 +1,49 @@
+.bg{
+    background-color: #110A3C;
+    width: 100vw;
+    height: 100vh;
+    padding-left: 50px;
+    padding-top: 50px;
+}
+.software{
+    color: #CED016;
+    margin-bottom: 25px;
+   
+
+}
+.hey{
+    color: #FFFFFF;
+    font-size: 45px;
+    font-family: Jost,sans-serif!important;
+    font-weight: 600;
+}
+.name{
+    color: #FFFFFF;
+    font-family: Jost,sans-serif!important;
+    font-weight: 600;
+    font-size: 50px;
+    margin: 10px 0px;
+    width: 400px;
+    background-image: linear-gradient(90deg,#db4c63,#b069cf,#1dacd7);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+.text{
+    color: #C3C2CE;
+    width: 50vw;
+    font-family: Jost,sans-serif!important;
+    line-height:23px;
+}
+.btn{
+    margin-top: 30px;
+    padding: 20px 50px;
+    background-image: linear-gradient(90deg,#db4c63,#b069cf,#1dacd7);
+    border-radius: 30px;
+    border: none;
+    font-size: 15px;
+    font-weight: 600;
+}
+.btn:hover{
+    background-image: none;
+    background-color: #59C378;
+}

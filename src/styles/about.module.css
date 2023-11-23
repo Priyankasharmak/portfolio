@@ -1,0 +1,22 @@
+.bg{
+    width: 500px;
+    height: 500px;
+    background-color: aqua;
+    margin: 50px;
+    /* padding-left: 60px; */
+}
+.bx{
+    border: 20px solid rgb(218, 146, 146);
+    /* margin-left: 30px; */
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
+.bx1{
+    border: 20px solid rgb(218, 146, 146);
+    /* margin-left: 30px; */
+    
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
